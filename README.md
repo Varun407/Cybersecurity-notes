@@ -1,14 +1,26 @@
-# SOC Analyst Learning Journey
+# Cybersecurity Notes
 
-Currently learning:
+A personal repository where I document my cybersecurity learning journey.
+
+## Topics Covered
 - Networking
 - Linux
-- SIEM
-- Log Analysis
-- Incident Response
+- Wireshark
+- Splunk
+- Web Security
+- Cryptography
+- TryHackMe Notes
+- Wireless Security
 
-Platforms:
+## Goals
+- Build strong cybersecurity fundamentals
+- Practice hands-on labs
+- Share structured notes and writeups
+
+## Platforms
 - TryHackMe
+- Hack The Box
+- MyFirstHack
 
-Goal:
-Become a SOC Analyst
+## Disclaimer
+This repository is for educational and ethical learning purposes only.
