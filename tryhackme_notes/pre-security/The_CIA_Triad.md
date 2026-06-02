@@ -22,11 +22,11 @@ Confidentiality ensures that data is only accessible to authorized individuals.
 
 ### Examples
 
-Employees can access only the documents required for their work.
+✅ Employees can access only the documents required for their work.
 
-Personal documents are publicly available online.
+❌ Personal documents are publicly available online.
 
-Passwords are written on sticky notes and left visible.
+❌ Passwords are written on sticky notes and left visible.
 
 ### Common Protection Methods
 
@@ -44,11 +44,11 @@ Data should remain accurate, complete, and trustworthy.
 
 ### Examples
 
-Data updated through an approved process.
+✅ Data updated through an approved process.
 
-Student attendance records changed after being finalized.
+❌ Student attendance records changed after being finalized.
 
-Order prices modified before checkout.
+❌ Order prices modified before checkout.
 
 ### Key Point
 
@@ -62,11 +62,11 @@ Availability ensures that data, systems, and services are accessible when needed
 
 ### Examples
 
-Employees can access systems during working hours.
+✅ Employees can access systems during working hours.
 
-Company website becomes unavailable during business hours.
+❌ Company website becomes unavailable during business hours.
 
-Critical services stop working after software installation.
+❌ Critical services stop working after software installation.
 
 ### Common Protection Methods
 
